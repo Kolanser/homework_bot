@@ -21,8 +21,8 @@ Telegram-бот, который обращается к API сервиса Пр�
 
 ### Технологии
 
-[python-dotenv](https://pypi.org/project/python-dotenv/)
-[python-telegram-bot](https://pypi.org/project/python-telegram-bot/)
+* [python-dotenv](https://pypi.org/project/python-dotenv/)
+* [python-telegram-bot](https://pypi.org/project/python-telegram-bot/)
 
 ### Для локального запуска проекта необходимо:
 
